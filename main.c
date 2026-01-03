@@ -1,3 +1,4 @@
+**2310206007 SUDE YAREN ÇELİK BİLGİSAYAR MÜHENDİSLİĞİ 2. ÖĞRETİM**
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -80,4 +81,5 @@ int main() {
     printf("Postfix Ifade: %s\n", postfix);
 
     return 0;
+
 }
